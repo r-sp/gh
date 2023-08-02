@@ -1,20 +1,9 @@
-# git-demo
+# GitHub Git Cheat Sheet
 
-```bash
-git add .
+Git is the free and open source distributed version control system that's responsible for everything GitHub related that happens locally on your computer. This cheat sheet features the most important and commonly used Git commands for easy reference.
 
-git commit "single commit"
-git commit -am "commit all changes"
+With platform specific installers for Git, GitHub also provides the ease of staying up-to-date with the latest releases of the command line tool while providing a graphical user interface for day-to-day interaction, review, and repository synchronization.
 
-git stash
-git stash pop
-
-git status
-
-git branch -M master
-
-git log
-git log --graph --online --decorate
-```
-
-Links [Git](https://www.youtube.com/watch?v=ecK3EnyGD8o).
+- [GitHub for Windows](https://windows.github.com).
+- [GitHub for Mac](https://mac.github.com).
+- [Git for All Platforms](htpp://git-scm.com).
