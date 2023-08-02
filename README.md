@@ -1,12 +1,19 @@
-# Git Cheatsheet
+# Git
 
 Git is the free and open source distributed version control system that's responsible for everything GitHub related that happens locally on your computer. This cheat sheet features the most important and commonly used Git commands for easy reference.
 
-With platform specific installers for Git, GitHub also provides the ease of staying up-to-date with the latest releases of the command line tool while providing a graphical user interface for day-to-day interaction, review, and repository synchronization.
+Content:
 
-- [GitHub for Windows](https://windows.github.com).
-- [GitHub for Mac](https://mac.github.com).
-- [Git for All Platforms](http://git-scm.com).
+- [Setup](#setup)
+- [Setup & Init](#setup--init)
+- [Stage & Snapshot](#stage--snapshot)
+- [Branch & Merge](#branch--merge)
+- [Inspect & Compare](#inspect--compare)
+- [Tracking Path Changes](#tracking-path-changes)
+- [Ignoring Patterns](#ignoring-patterns)
+- [Share & Update](#share--update)
+- [Rewrite History](#rewrite-history)
+- [Temporary Commits](#temporary-commits)
 
 ## Setup
 
@@ -366,4 +373,9 @@ Discard the changes from top of stash stack.
 
 ---
 
-Source: [git-cheat-sheet-education.pdf](https://education.github.com/git-cheat-sheet-education.pdf).
+Source:
+
+- [git-cheat-sheet-education.pdf](https://education.github.com/git-cheat-sheet-education.pdf)
+- [GitHub for Windows](https://windows.github.com)
+- [GitHub for Mac](https://mac.github.com)
+- [Git for All Platforms](http://git-scm.com)
