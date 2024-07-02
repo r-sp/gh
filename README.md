@@ -38,3 +38,15 @@ gh auth login
 ```
 
 Make sure you choose SSH connection, then click `~/.ssh/id_ed25519.pub` to upload into your [GitHub SSH keys](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
+
+Learn more [about authentication to GitHub](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-authentication-to-github).
+
+## Commands
+
+```sh
+# Git SSH
+git clone git@github.com:r-sp/gh.git
+
+# GitHub CLI
+gh repo clone r-sp/gh
+```
