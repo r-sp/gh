@@ -37,9 +37,7 @@ Install [GitHub CLI](https://cli.github.com/) and login into your account
 gh auth login
 ```
 
-Make sure you choose SSH connection, then click `~/.ssh/id_ed25519.pub` to upload into your [GitHub SSH keys](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
-
-Learn more [about authentication to GitHub](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-authentication-to-github).
+Make sure you choose SSH connection, then click `~/.ssh/id_ed25519.pub` to [Add your SSH keys into your account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
 
 ## Commands
 
@@ -50,8 +48,6 @@ git clone git@github.com:r-sp/gh.git
 # GitHub CLI
 gh repo clone r-sp/gh
 ```
-
-- [GitHub CLI](./cli.md)
 
 ## Summary
 
