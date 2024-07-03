@@ -1,4 +1,4 @@
-# GitHub with the perkies
+# GitHub CLI quickstart
 
 Set up [Git](https://git-scm.com/downloads/)
 
@@ -51,19 +51,21 @@ git clone git@github.com:r-sp/gh.git
 gh repo clone r-sp/gh
 ```
 
-Here's a breakdown of the key differences between Git and GitHub CLI:
+- [GitHub CLI](./cli.md)
+
+## Summary
 
 **Git**
 
-- **What it is:** A powerful, open-source version control system.
-- **What it does:** Tracks changes in your code over time, allowing you to revert to previous versions, collaborate with others, and manage branches.
-- **Use cases:** Works with any Git repository, regardless of where it's hosted (GitHub, GitLab, Bitbucket, etc.). Great for core version control functionality like version tracking, branching, merging, and committing changes.
+- A powerful, open-source version control system.
+- Tracks changes in your code over time, allowing you to revert to previous versions, collaborate with others, and manage branches.
+- Works with any Git repository, regardless of where it's hosted (GitHub, GitLab, Bitbucket, etc.). Great for core version control functionality like version tracking, branching, merging, and committing changes.
 
 **GitHub CLI**
 
-- **What it is:** A command-line tool specifically designed for interacting with GitHub.
-- **What it does:** Provides a way to manage GitHub repositories, issues, pull requests, releases, and more directly from your terminal.
-- **Use cases:** Ideal for those who primarily use GitHub and prefer a command-line workflow. Offers functionalities like creating pull requests, managing issues, and cloning repositories directly from GitHub.
+- A command-line tool specifically designed for interacting with GitHub.
+- Provides a way to manage GitHub repositories, issues, pull requests, releases, and more directly from your terminal.
+- Ideal for those who primarily use GitHub and prefer a command-line workflow. Offers functionalities like creating pull requests, managing issues, and cloning repositories directly from GitHub.
 
 **In simpler terms:**
 
